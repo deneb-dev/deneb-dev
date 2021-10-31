@@ -4,7 +4,8 @@
 \
 <br />
 
-# Acara Spesial🎉
+# Acara Super Spesial🎉 
+#Mari Berkonstribusi di event internasional ini secara gratis
 # Apa itu Hacktoberfest 2021?
 
 Hacktoberfest adalah cara termudah untuk masuk ke open source! Hacktoberfest adalah festival kode sumber terbuka selama sebulan yang dipersembahkan oleh [ Digital Ocean ](https://www.digitalocean.com/) dan [ DEV ](https://dev.to/) tahun ini pada tahun 2021.
